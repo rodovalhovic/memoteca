@@ -3,22 +3,14 @@
     {
       "id": 1,
       "conteudo": "Essa é a pele de um assassino Bella.",
-      "autoria": "Edward Cullen, Crepúsculo",
+      "autoria": "Edward Cullen",
       "modelo": "modelo1"
-
     },
     {
       "id": 2,
       "conteudo": "A unica má vontade que encontrar será a que trouxer com você!",
       "autoria": "Gandalf",
       "modelo": "modelo2"
-    },
-    {
-      "id": 3,
-      "conteudo": "É possível encontrar a felicidade nas horas mais sombrias, se a pessoa lembrar de acender a luz.",
-      "autoria": "Vic",
-      "modelo": "modelo3"
-
     }
   ]
 }
